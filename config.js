@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: '6',
       name: '/r/unixporn',
-      icon: 'bookmark',
+      icon: 'camera',
       link: 'https://reddit.com/r/unixporn',
     },
   ],
