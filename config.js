@@ -64,15 +64,15 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: '/r/unixporn',
-      icon: 'bookmark',
-      link: 'https://reddit.com/r/unixporn',
-    },
-    {
-      id: '6',
       name: 'YouTube',
       icon: 'youtube',
       link: 'https://youtube.com/',
+    },
+    {
+      id: '6',
+      name: '/r/unixporn',
+      icon: 'bookmark',
+      link: 'https://reddit.com/r/unixporn',
     },
   ],
 
@@ -81,11 +81,30 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'coffee',
+  firstListIcon: 'book',
+  secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
+      {
+        name: 'Inspirational',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Classic',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Oldies',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+      {
+        name: 'Rock',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
+    ],
+    secondList: [
       {
         name: 'synthtopia',
         link: 'https://synthtopia.com/',
