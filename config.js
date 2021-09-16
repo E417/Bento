@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'FoW',
-      icon: 'command',
-      link: 'https://forceofwill.dreamhosters.com/index.php/?',
+      name: 'Nyaa',
+      icon: 'download',
+      link: 'https://nyaa.si/',
     },
     {
       id: '5',
@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: '6',
       name: '/r/unixporn',
-      icon: 'layout',
+      icon: 'aperture',
       link: 'https://reddit.com/r/unixporn',
     },
   ],
@@ -81,45 +81,53 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'book-open',
-  secondListIcon: 'coffee',
+  firstListIcon: 'coffee',
+  secondListIcon: 'dollar-sign',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'cdm',
+        link: 'https://cdm.link/',
       },
-      {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-    ],
-    secondList: [
       {
         name: 'synthtopia',
         link: 'https://synthtopia.com/',
       },
       {
-        name: 'cdm',
-        link: 'https://cdm.link/',
+        name: 'FoW',
+        link: 'https://forceofwill.dreamhosters.com/index.php/?',
       },
       {
         name: 'p99',
         link: 'https://www.project1999.com/',
       },
       {
+        name: '/r/p99'
+        link: 'https://reddit.com/r/project1999'
+      },
+    ],
+    secondList: [
+      {
+        name: '99:an',
+        link: 'https://www.99musik.se/',
+      },
+      {
         name: 'vend',
         link: 'https://vend.se/',
+      },
+      {
+        name: 'efn',
+        link: 'https://escapefromnoise.com/',
+      },
+      {
+        name: 'tsn',
+        link: 'https://thesynthesizernetwork.shop.textalk.se/',
+      },
+      {
+        name: ''
+        link: ''
       },
     ],
   },
