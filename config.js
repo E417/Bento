@@ -11,16 +11,16 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Alexander',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
-  greetingAfternoon: 'Good afternoon,',
-  greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingMorning: 'God morgon!',
+  greetingAfternoon: 'God eftermiddag,',
+  greetingEvening: 'Good kväll!,',
+  greetingNight: 'Lägg dig!',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
@@ -48,31 +48,31 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Lines',
+      icon: 'bookmark',
+      link: 'llllllll.co/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'FoW',
+      icon: 'bookmark',
+      link: 'https://forceofwill.dreamhosters.com/index.php/?',
     },
     {
       id: '5',
-      name: 'Reddit',
+      name: '/r/unixporn',
       icon: 'bookmark',
-      link: 'https://reddit.com',
+      link: 'https://reddit.com/r/unixporn',
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'YouTube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 
@@ -106,16 +106,16 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Synthtopia',
+        link: 'https://synthtopia.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'cdm',
+        link: 'https://cdm.link/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'P99',
+        link: 'https://www.project1999.com/',
       },
       {
         name: 'Telegram',
