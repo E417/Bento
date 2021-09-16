@@ -17,10 +17,10 @@ const CONFIG = {
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'God morgon!',
+  greetingMorning: 'God morgon,',
   greetingAfternoon: 'God eftermiddag,',
-  greetingEvening: 'Good kväll!,',
-  greetingNight: 'Lägg dig!',
+  greetingEvening: 'Good kväll,',
+  greetingNight: 'Gå och lägg dig,',
 
   // Weather
   weatherKey: 'InsertYourAPIKeyHere123456',
