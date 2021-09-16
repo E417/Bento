@@ -28,7 +28,7 @@ const CONFIG = {
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '37.775',
   defaultLongitude: '-122.419',
 
@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: '6',
       name: '/r/unixporn',
-      icon: 'aperture',
+      icon: 'bookmark',
       link: 'https://reddit.com/r/unixporn',
     },
   ],
@@ -103,10 +103,6 @@ const CONFIG = {
         name: 'p99',
         link: 'https://www.project1999.com/',
       },
-      {
-        name: '/r/p99'
-        link: 'https://reddit.com/r/project1999'
-      },
     ],
     secondList: [
       {
@@ -124,10 +120,6 @@ const CONFIG = {
       {
         name: 'tsn',
         link: 'https://thesynthesizernetwork.shop.textalk.se/',
-      },
-      {
-        name: ''
-        link: ''
       },
     ],
   },
