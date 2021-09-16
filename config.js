@@ -106,7 +106,7 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Synthtopia',
+        name: 'synthtopia',
         link: 'https://synthtopia.com/',
       },
       {
@@ -114,12 +114,12 @@ const CONFIG = {
         link: 'https://cdm.link/',
       },
       {
-        name: 'P99',
+        name: 'p99',
         link: 'https://www.project1999.com/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'vend',
+        link: 'https://vend.se/',
       },
     ],
   },
