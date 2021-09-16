@@ -53,13 +53,13 @@ const CONFIG = {
     {
       id: '3',
       name: 'Lines',
-      icon: 'bookmark',
+      icon: 'align-justify',
       link: 'llllllll.co/',
     },
     {
       id: '4',
       name: 'FoW',
-      icon: 'bookmark',
+      icon: 'command',
       link: 'https://forceofwill.dreamhosters.com/index.php/?',
     },
     {
@@ -71,7 +71,7 @@ const CONFIG = {
     {
       id: '6',
       name: '/r/unixporn',
-      icon: 'bookmark',
+      icon: 'layout',
       link: 'https://reddit.com/r/unixporn',
     },
   ],
