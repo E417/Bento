@@ -81,7 +81,7 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'book',
+  firstListIcon: 'book-open',
   secondListIcon: 'coffee',
 
   // Links
