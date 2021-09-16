@@ -54,7 +54,7 @@ const CONFIG = {
       id: '3',
       name: 'Lines',
       icon: 'align-justify',
-      link: 'llllllll.co/',
+      link: 'https://llllllll.co/',
     },
     {
       id: '4',
