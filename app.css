@@ -1,7 +1,7 @@
-/* 
+/*
 // ╔╗ ╔═╗╔╗╔╔╦╗╔═╗
 // ╠╩╗║╣ ║║║ ║ ║ ║
-// ╚═╝╚═╝╝╚╝ ╩ ╚═╝ 
+// ╚═╝╚═╝╝╚╝ ╩ ╚═╝
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
@@ -27,9 +27,9 @@
 
   /* Image background  */
 
-  /* Uncoment this section to get the 
-    image wallpaper. You can also 
-    change the --imgcol value 
+  /* Uncoment this section to get the
+    image wallpaper. You can also
+    change the --imgcol value
     to make the filter to your own */
 
   --imgbg: url(assets/background.jpg);
@@ -145,12 +145,6 @@ body {
   margin-top: 30px;
 }
 
-.weatherBlock__weather {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
 .clock {
   display: flex;
   align-items: center;
@@ -178,24 +172,6 @@ body {
 
 #greetings {
   font-size: var(--fss);
-  color: var(--fg);
-}
-
-.weather-icon img {
-  width: 70px;
-  height: 70px;
-}
-
-.temperature-value p {
-  font-size: var(--fss);
-  font-weight: bolder;
-  margin-left: 15px;
-  color: var(--fg);
-}
-
-.temperature-description p {
-  font-size: var(--fss);
-  margin-left: 15px;
   color: var(--fg);
 }
 
@@ -288,7 +264,7 @@ body {
 .list__link:hover {
   background-color: var(--accent);
   color: var(--sfg);
-  
+
 }
 
 /* M E D I A - Q U E R I E S */
