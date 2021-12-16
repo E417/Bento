@@ -39,12 +39,12 @@
   ); /* Filter color */
 }
 
-/* Dark theme  */
+/* Nord Dark theme  */
 .darktheme {
   --accent: #B48EAD; /* Hover color */
-  --bg: #1D1D1D; /* Background color */
-  --sbg: #5B5B5B; /* Cards color */
-  --fg: #3E3E3E; /* Foreground color */
+  --bg: #303643; /* Background color */
+  --sbg: #252A34; /* Cards color */
+  --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0.85),
