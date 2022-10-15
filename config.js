@@ -19,7 +19,7 @@ const CONFIG = {
   // Greetings
   greetingMorning: 'God morgon,',
   greetingAfternoon: 'God eftermiddag,',
-  greetingEvening: 'Good kväll,',
+  greetingEvening: 'God kväll,',
   greetingNight: 'Gå och lägg dig,',
 
   // Weather
@@ -96,8 +96,8 @@ const CONFIG = {
         link: 'https://synthtopia.com/',
       },
       {
-        name: 'FoW',
-        link: 'https://forceofwill.dreamhosters.com/index.php/?',
+        name: 'GG',
+        link: 'https://goodguysguild.com/',
       },
       {
         name: 'p99',
@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://escapefromnoise.com/',
       },
       {
-        name: 'tsn',
-        link: 'https://thesynthesizernetwork.shop.textalk.se/',
+        name: 'TCB scans',
+        link: 'https://readtcbscans.com/',
       },
     ],
   },
