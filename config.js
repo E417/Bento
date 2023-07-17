@@ -96,12 +96,12 @@ const CONFIG = {
         link: 'https://synthtopia.com/',
       },
       {
-        name: 'GG',
-        link: 'https://goodguysguild.com/',
+        name: '<Castle>',
+        link: 'https://castledkp.com//',
       },
       {
-        name: 'p99',
-        link: 'https://www.project1999.com/',
+        name: 'p99 wiki',
+        link: 'https://wiki.project1999.com/',
       },
     ],
     secondList: [
@@ -118,8 +118,8 @@ const CONFIG = {
         link: 'https://escapefromnoise.com/',
       },
       {
-        name: 'TCB scans',
-        link: 'https://readtcbscans.com/',
+        name: 'One Piece',
+        link: 'https://ww5.read-onepiece.net/manga/category/manga/',
       },
     ],
   },
