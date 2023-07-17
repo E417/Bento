@@ -96,7 +96,7 @@ const CONFIG = {
         link: 'https://synthtopia.com/',
       },
       {
-        name: '<Castle>',
+        name: 'Castle',
         link: 'https://castledkp.com//',
       },
       {
