@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Nyaa',
+      name: 'Aniwave',
       icon: 'download',
-      link: 'https://nyaa.si/',
+      link: 'https://aniwave.to/home',
     },
     {
       id: '5',
@@ -97,7 +97,7 @@ const CONFIG = {
       },
       {
         name: 'Castle',
-        link: 'https://castledkp.com//',
+        link: 'https://castledkp.com/',
       },
       {
         name: 'p99 wiki',
