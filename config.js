@@ -119,7 +119,7 @@ const CONFIG = {
       },
       {
         name: 'One Piece',
-        link: 'https://ww5.read-onepiece.net/manga/category/manga/',
+        link: 'https://ww10.readonepiece.com/',
       },
     ],
   },
