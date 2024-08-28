@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Aniwave',
+      name: 'Hianime',
       icon: 'download',
-      link: 'https://aniwave.to/home',
+      link: 'https://hianime.to/home',
     },
     {
       id: '5',
