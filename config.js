@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'Alexander.',
+  name: 'Alex.',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://www.99musik.se/',
       },
       {
-        name: 'vend',
-        link: 'https://vend.se/',
+        name: 'Gearloop',
+        link: 'https://gearloop.se/',
       },
       {
         name: 'efn',
